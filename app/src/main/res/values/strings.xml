@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Sueldo</string>
+    <string name="tvCalculadoraSueldo">Calculadora sueldo</string>
+    <string name="etNombres">Nombres</string>
+    <string name="etApellidos">Apellidos</string>
+    <string name="tvFechaNacimiento">Fecha de nacimiento</string>
+    <string name="dpFechaNacimiento"></string>
+    <string name="tvFechaIngreso">Fecha de ingreso</string>
+    <string name="dpFechaIngreso"></string>
+    <string name="etSueldo">Sueldo Base</string>
+    <string name="etHorasExtra">Horas extra</string>
+    <string name="btnCalcular">Calcular</string>
+    <string name="tvNombres"></string>
+    <string name="tvApellidos"></string>
+    <string name="tvSueldo"></string>
+    <string name="tvHorasExtra"></string>
+    <string name="tvSueldoTotal"></string>
+    <string name="tvEdad"></string>
+</resources>
